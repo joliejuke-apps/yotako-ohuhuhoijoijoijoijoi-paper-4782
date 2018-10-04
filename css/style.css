@@ -1,0 +1,89 @@
+@media  (max-width: 768px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 375px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 20px;
+margin-top: 20px;
+width: 200px;
+height: 200px;
+flex-direction: column;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 1.125em;
+margin-left: 67px;
+height: 17px;}
+}@media  (min-width: 768px)  and  (max-width: 920px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 768px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 41px;
+margin-top: 41px;
+width: 410px;
+height: 410px;
+flex-direction: column;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 2.3040000000000003em;
+margin-left: 137px;
+height: 35px;}
+}@media  (min-width: 920px)  and  (max-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 920px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 49px;
+margin-top: 49px;
+width: 491px;
+height: 491px;
+flex-direction: column;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 2.76em;
+margin-left: 164px;
+height: 42px;}
+}@media  (min-width: 1200px) {.main-wrapper {
+margin-left: auto;
+margin-right: auto;
+width: 1200px;}
+.style0 {
+background-color: #ffffff;
+border-left: 1px solid #707070;
+border-right: 1px solid #707070;
+border-top: 1px solid #707070;
+border-bottom: 1px solid #707070;
+display: flex;
+margin-left: 64px;
+margin-top: 64px;
+width: 640px;
+height: 640px;
+flex-direction: column;}
+.style2 {
+color: #707070;
+font-family: 'segoeui',serif;
+font-size: 3.6em;
+margin-left: 214px;
+height: 54px;}
+}
